@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sortarea Vectorului", "Sortarea Vectorului\Sortarea Vectorului.pyproj", "{31F464AC-0D67-479D-8F28-759502B186D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F464AC-0D67-479D-8F28-759502B186D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F464AC-0D67-479D-8F28-759502B186D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D477A632-6BC5-4DC9-87E7-2AE3BCA14E60}
+	EndGlobalSection
+EndGlobal
